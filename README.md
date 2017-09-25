@@ -12,3 +12,7 @@ One final thing to note: both projects were modified on 9-7-2017 when I realized
 BubbleSort_Timing_HW_4_Chris Kelly 9-16-2017
 This is a program where we needed to use BubbleSort to sort an array of words as well as use the Arrays.sort(array_name); function. We were also interested in timing this using a wall clock and the System.nanoTime() to get the CPU time spent on it. To do A Tale of Two Cities, it took about 49 minutes.
 
+Concordance_HW_5_Chris Kelly 9-25-2017
+This is really similar to HW 4 except this one only counts individual unique words. Duplicate words are not allowed.
+
+NEXT HW HERE
