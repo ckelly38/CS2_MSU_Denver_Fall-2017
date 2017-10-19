@@ -15,4 +15,10 @@ This is a program where we needed to use BubbleSort to sort an array of words as
 Concordance_HW_5_Chris Kelly 9-25-2017
 This is really similar to HW 4 except this one only counts individual unique words. Duplicate words are not allowed. Before sorting into alphabetical order, this program converts the words to lower case as they are read into the program from the file.
 
-NEXT HW HERE
+MergeSortHW6 Chris Kelly 10-14-2017 to 10-18-2017.zip
+This is a MergeSort program that allows me to use MergeSort on Strings[], Integers[], Doubles[], Longs[], Floats[], ints[], floats[], doubles[], and longs[] arrays. In the program, I have provided how MergeSort works in comments. I also allow the user to control how much data is entered and what range of data is entered into these arrays. I used a Random class in java (NOT the Math.Random class) to generate the random numbers.
+
+My ArrayList and LinkedList 10-10 to 10-14 and 17-2017 Chris Kelly.zip
+As a side project for HW 2, we were wanted to write our own ArrayList and LinkedList classes as these aren't always in every programming language. They don't have this capability in C++, for example. So I wrote my own of both of these classes, and I tested the heck out of that linked list program that I wrote. Just see the driver program for that. I also tested the ArrayList, but only the essential functions, and some functions that controlled the max capacity or rather that set a max capacity and enforced it.
+
+NEXT PROJECT OR HW GOES HERE...
