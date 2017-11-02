@@ -18,7 +18,10 @@ This is really similar to HW 4 except this one only counts individual unique wor
 MergeSortHW6 Chris Kelly 10-14-2017 to 10-18-2017.zip
 This is a MergeSort program that allows me to use MergeSort on Strings[], Integers[], Doubles[], Longs[], Floats[], ints[], floats[], doubles[], and longs[] arrays. In the program, I have provided how MergeSort works in comments. I also allow the user to control how much data is entered and what range of data is entered into these arrays. I used a Random class in java (NOT the Math.Random class) to generate the random numbers.
 
-My ArrayList and LinkedList 10-10 to 10-14 and 17-2017 Chris Kelly.zip
-As a side project for HW 2, we were wanted to write our own ArrayList and LinkedList classes as these aren't always in every programming language. They don't have this capability in C++, for example. So I wrote my own of both of these classes, and I tested the heck out of that linked list program that I wrote. Just see the driver program for that. I also tested the ArrayList, but only the essential functions, and some functions that controlled the max capacity or rather that set a max capacity and enforced it.
+My ArrayList and LinkedList 10-10 to 10-14, 17, and 31-2017 Chris Kelly.zip
+As a side project for HW 2, we were wanted to write our own ArrayList and LinkedList classes as these aren't always in every programming language. They don't have this capability in C++, for example. So I wrote my own of both of these classes, and I tested the heck out of that linked list program that I wrote. Just see the driver program for that. I also tested the ArrayList, but only the essential functions, and some functions that controlled the max capacity or rather that set a max capacity and enforced it. This file was modified on 10-31-207 and the older one was removed because I made this compatable with trees and gave it functionality like such.
+
+HW7 Open Chaning Hash Tables_Chris Kelly 10-30, 31 and 11-1-2017.zip
+This project was an introduction into hash tables. We were supposed to build a hash table using open chaninging and linear probing for items. A hash table combines properties of arrays/arraylists with linkedlists or other arrays/linked lists. That part I understood. I did not understand the other concepts relating to this nor am I sure if I used the java HashTable class correctly.
 
 NEXT PROJECT OR HW GOES HERE...
